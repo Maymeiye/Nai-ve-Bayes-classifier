@@ -1,0 +1,64 @@
+####### REAL TASK #######
+Pre processing TRAIN folder NEG data...(wait couple seconds)
+	processed files: #1000
+	processed files: #2000
+	processed files: #3000
+	processed files: #4000
+	processed files: #5000
+	processed files: #6000
+	processed files: #7000
+	processed files: #8000
+	processed files: #9000
+	processed files: #10000
+	processed files: #11000
+	processed files: #12000
+
+Pre processing TRAIN folder POS data...(wait couple seconds)
+	processed files: #1000
+	processed files: #2000
+	processed files: #3000
+	processed files: #4000
+	processed files: #5000
+	processed files: #6000
+	processed files: #7000
+	processed files: #8000
+	processed files: #9000
+	processed files: #10000
+	processed files: #11000
+	processed files: #12000
+{'neg': -1.0, 'pos': -1.0}
+total tokens in neg files: 2836792
+total tokens in pos files: 2909725
+
+Predict Test folder NEG data: 
+	predicted files #: 1000
+	predicted files #: 2000
+	predicted files #: 3000
+	predicted files #: 4000
+	predicted files #: 5000
+	predicted files #: 6000
+	predicted files #: 7000
+	predicted files #: 8000
+	predicted files #: 9000
+	predicted files #: 10000
+	predicted files #: 11000
+	predicted files #: 12000
+For 12500 files in NEG folder, 10951 of files are predicted as NEG
+Accuracy is 0.87608
+
+Predict Test folder POS data: 
+	predicted files #: 1000
+	predicted files #: 2000
+	predicted files #: 3000
+	predicted files #: 4000
+	predicted files #: 5000
+	predicted files #: 6000
+	predicted files #: 7000
+	predicted files #: 8000
+	predicted files #: 9000
+	predicted files #: 10000
+	predicted files #: 11000
+	predicted files #: 12000
+For 12500 files in POS folder, 9404 of files are predicted as POS
+Accuracy is 0.75232
+Overall prediction: 0.8142
